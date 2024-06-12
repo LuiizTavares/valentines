@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   background-image: url("imgs/sean-oulashin-KMn4VEeEPR8-unsplash\ \(1\).jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
 
